@@ -42,12 +42,12 @@
 <div class="header">
   <img src="profile.jpg" alt="Profile Photo">
   <div>
-    <h1>Your Name</h1>
-    <p>Ph.D. Candidate / Researcher</p>
+    <h1>Ipsita Mohanty</h1>
+    <p>Ph.D. Researcher</p>
     <p>
-      <a href="mailto:your.email@gmail.com">Email</a> |
+      <a href="mailto:ipsitamail95@gmail.com">Email</a> |
       <a href="#">Google Scholar</a> |
-      <a href="#">LinkedIn</a> |
+      <a href="#">https://www.linkedin.com/in/ipsita-mohanty95/</a> |
       <a href="cv.pdf">CV</a>
     </p>
   </div>
@@ -57,8 +57,7 @@
 <div class="section">
   <h2>About Me</h2>
   <p>
-    I am a Ph.D. researcher working on advanced materials, focusing on
-    β-Titanium alloys, additive manufacturing, and microstructure-property relationships.
+    A Materials and Manufacturing Ph.D. researcher working on advanced materials (β-Titanium alloys, and Ni-based super alloys), Alloy designing and additive manufacturing, and microstructure-property relationships.
     My work integrates experimental metallurgy with data-driven approaches.
   </p>
 </div>
