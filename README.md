@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Your Name | Research</title>
+  <title>Ipsita Mohanty | Research</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -46,8 +46,8 @@
     <p>Ph.D. Researcher</p>
     <p>
       <a href="mailto:ipsitamail95@gmail.com">Email</a> |
-      <a href="#">Google Scholar</a> |
-      <a href="#">https://www.linkedin.com/in/ipsita-mohanty95/</a> |
+      <a href="https://scholar.google.com/citations?user=e1rxvMcAAAAJ&hl=en">Google Scholar</a> |
+      <a href="https://www.linkedin.com/in/ipsita-mohanty95/">LinkedIn</a> |
       <a href="cv.pdf">CV</a>
     </p>
   </div>
